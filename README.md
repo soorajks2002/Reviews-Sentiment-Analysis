@@ -13,8 +13,7 @@
   ### Test Data = 84%
   
   
-## F1 Score
-  ### 0.896
+## F1 Score - 0.896
   
   
   
